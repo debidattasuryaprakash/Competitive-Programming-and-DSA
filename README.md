@@ -12,5 +12,6 @@ There are multiple reasons why **Product Based Companies** place so much empha
 2. Questions based on Data Structures and Algorithms can be **scaled up or down** according to the knowledge level of the candidate. This means that a variety of candidates can be tested using roughly the same problems.
 3. Data Structures and Algorithms are used to test the **analytical skills** of the candidates as they are a useful tool to pick out the underlying algorithms in real-world problems and solve them efficiently.
 4. Data Structures and Algorithms are the **fundamentals** of Software Development. They remain the same no matter what new technology is used and that puts the focus on the problem rather than the technology in the interview process.
+5. Its Fun.
 
 
